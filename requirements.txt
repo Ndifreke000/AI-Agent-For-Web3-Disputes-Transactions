@@ -1,0 +1,5 @@
+deeppavlov
+tensorflow
+torch
+transformers
+spacy

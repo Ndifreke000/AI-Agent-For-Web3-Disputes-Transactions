@@ -1,0 +1,228 @@
+[
+    {
+      "question": "How do I file a dispute?",
+      "answer": "Go to the disputes portal, upload transaction details, and attach chat logs/text evidence. The AI will analyze context to auto-fill your claim."
+    },
+    {
+      "question": "What documents do I need?",
+      "answer": "Submit IDs, transaction proofs, and chat logs. The AI scans chats for promises/agreements to validate your case."
+    },
+    {
+      "question": "How long does resolution take?",
+      "answer": "AI resolves 70% of cases in <24 hours. Complex cases involving conflicting evidence take 3-5 days."
+    },
+    {
+      "question": "Can I dispute charges older than 3 months?",
+      "answer": "AI reviews exceptions (e.g., delayed discovery of fraud) if chat logs show recent acknowledgment of issues."
+    },
+    {
+      "question": "Will I get a full refund if I win?",
+      "answer": "AI calculates refunds based on chat-agreed terms, damages, and platform policies. Partial refunds are common."
+    },
+  
+    {
+      "question": "How does the AI determine fault?",
+      "answer": "It uses NLP to analyze chat sentiment, track broken promises, and cross-reference transaction timestamps."
+    },
+    {
+      "question": "Can the AI read deleted messages?",
+      "answer": "No—submit screenshots with timestamps. AI flags edits/deletions as potential evidence tampering."
+    },
+    {
+      "question": "Does the AI work with voice messages?",
+      "answer": "Yes. Upload audio files; AI transcribes and analyzes tone, promises, and threats."
+    },
+    {
+      "question": "What languages does the AI support?",
+      "answer": "20+ languages (e.g., English, Spanish, Mandarin). Non-supported languages require human translation."
+    },
+    {
+      "question": "Can the AI detect fake screenshots?",
+      "answer": "Yes. It checks metadata, font inconsistencies, and cross-references platform timestamps."
+    },
+    {
+      "question": "What if the AI misinterprets sarcasm/jokes?",
+      "answer": "Human reviewers override AI decisions if tone is ambiguous. Flag this in your appeal."
+    },
+    {
+      "question": "How accurate is the AI?",
+      "answer": "92% accuracy in clear-cut cases. Mixed evidence drops accuracy to 75%, triggering human review."
+    },
+    {
+      "question": "Can I see the AI’s reasoning?",
+      "answer": "Yes. A summary report highlights key chat lines, contradictions, and decision factors."
+    },
+    {
+      "question": "Does the AI favor buyers or sellers?",
+      "answer": "No. It weights evidence equally but penalizes parties who delete chats or submit false data."
+    },
+    {
+      "question": "What if both parties are partially wrong?",
+      "answer": "AI assigns blame percentages (e.g., 70/30) and adjusts refunds accordingly."
+    },
+  
+    {
+      "question": "Are WhatsApp chats valid evidence?",
+      "answer": "Yes. Export full chats with timestamps—cropped screenshots may be rejected."
+    },
+    {
+      "question": "Can I use emails as proof?",
+      "answer": "Yes. Forward raw emails with headers; AI extracts commitments and deadlines."
+    },
+    {
+      "question": "Do I need notarized documents?",
+      "answer": "Only for high-value disputes (>$10,000) or property claims."
+    },
+    {
+      "question": "What file formats are accepted?",
+      "answer": "PDF, JPG, PNG, MP3, MP4. Max 25MB per file."
+    },
+    {
+      "question": "How do I submit video evidence?",
+      "answer": "Upload files directly. AI analyzes speech, timestamps, and visual context (e.g., product damage)."
+    },
+    {
+      "question": "Can I link cloud storage (Google Drive)?",
+      "answer": "No—upload files directly to ensure AI parsing and security."
+    },
+    {
+      "question": "What if my evidence is hacked/leaked?",
+      "answer": "All files are encrypted. Report breaches immediately to freeze your case."
+    },
+    {
+      "question": "Are witness statements accepted?",
+      "answer": "Yes. Witnesses must verify identity and provide contact details for AI credibility checks."
+    },
+    {
+      "question": "Can I use social media DMs as evidence?",
+      "answer": "Yes (e.g., Instagram, Twitter). Include profile URLs to confirm identities."
+    },
+    {
+      "question": "What if the other party uses fake accounts?",
+      "answer": "AI cross-checks IPs, payment details, and chat patterns to detect impersonation."
+    },
+  
+
+    {
+      "question": "What happens if I lose?",
+      "answer": "You can appeal or accept the result. Repeat frivolous claims may lead to account bans."
+    },
+    {
+      "question": "Can the AI freeze accounts?",
+      "answer": "Yes. For severe fraud, AI freezes accounts and alerts law enforcement."
+    },
+    {
+      "question": "How are refunds processed?",
+      "answer": "Refunds are issued via the original payment method within 3-5 business days."
+    },
+    {
+      "question": "What if the merchant refuses to pay?",
+      "answer": "AI automatically deducts funds from their platform balance or escalates to collections."
+    },
+    {
+      "question": "Can the AI enforce legal action?",
+      "answer": "No—but it generates legal-ready reports for small claims court."
+    },
+    {
+      "question": "Are disputes binding in court?",
+      "answer": "No, but AI reports are admissible as evidence. Consult a lawyer for litigation."
+    },
+    {
+      "question": "What if I win but the merchant is bankrupt?",
+      "answer": "AI routes compensation from platform insurance funds if available."
+    },
+    {
+      "question": "Can I negotiate a settlement mid-case?",
+      "answer": "Yes. Use the “Offer Settlement” button; AI adjusts terms based on new agreements."
+    },
+    {
+      "question": "Does the AI punish false claims?",
+      "answer": "Yes. Users with >3 fake claims face permanent bans and credit score impacts."
+    },
+    {
+      "question": "Can I withdraw a dispute?",
+      "answer": "Yes, unless the AI detects criminal activity (e.g., money laundering)."
+    },
+  
+    {
+      "question": "Is my chat data sold to third parties?",
+      "answer": "No. Data is anonymized and used only for dispute resolution."
+    },
+    {
+      "question": "How are voice messages stored?",
+      "answer": "Encrypted and deleted after 90 days unless used in ongoing appeals."
+    },
+    {
+      "question": "Can I request data deletion?",
+      "answer": "Yes, after case closure. Submit a request under Privacy Settings."
+    },
+    {
+      "question": "What if the AI system goes offline?",
+      "answer": "Human agents handle cases temporarily, with 2x longer resolution times."
+    },
+    {
+      "question": "Is the system GDPR compliant?",
+      "answer": "Yes. All data processing follows EU privacy regulations."
+    },
+    {
+      "question": "Can I use a VPN during disputes?",
+      "answer": "Yes, but AI may flag suspicious login locations for verification."
+    },
+    {
+      "question": "Are disputes confidential?",
+      "answer": "Yes. Only involved parties and authorized staff access case details."
+    },
+    {
+      "question": "Does the AI work on mobile apps?",
+      "answer": "Yes. The mobile app supports full AI dispute filing and tracking."
+    },
+    {
+      "question": "What browsers are supported?",
+      "answer": "Chrome, Firefox, Safari, Edge. Enable cookies and JavaScript."
+    },
+    {
+      "question": "How do I report a bug?",
+      "answer": "Use the “Report Issue” link in the dispute portal. Bugs are fixed in 24-48 hours."
+    },
+  
+    {
+      "question": "Can I dispute cryptocurrency transactions?",
+      "answer": "Only if the platform supports reversible crypto (e.g., XRP). Bitcoin disputes are invalid."
+    },
+    {
+      "question": "What if the product was damaged during shipping?",
+      "answer": "AI checks delivery confirmations and chat agreements about shipping insurance."
+    },
+    {
+      "question": "Are pre-order cancellations refundable?",
+      "answer": "Yes, unless chats show explicit “no refund” terms before purchase."
+    },
+    {
+      "question": "Can I dispute a donation?",
+      "answer": "Only if fraud is proven (e.g., fake charity). AI scans donation descriptions for lies."
+    },
+    {
+      "question": "How are cross-border disputes handled?",
+      "answer": "AI converts currencies, follows local laws, and flags jurisdictional conflicts."
+    },
+    {
+      "question": "What if the merchant is in a war zone?",
+      "answer": "Cases are paused; funds are held in escrow until stability returns."
+    },
+    {
+      "question": "Can I dispute NFTs?",
+      "answer": "Yes, if the NFT’s content differs from chat/listing promises (e.g., fake art)."
+    },
+    {
+      "question": "What if I’m scammed via phishing links?",
+      "answer": "AI analyzes URL histories and login IPs to confirm phishing. Refunds are prioritized."
+    },
+    {
+      "question": "Are verbal agreements valid?",
+      "answer": "No—only text/recorded evidence is accepted. Always get written terms."
+    },
+    {
+      "question": "What if the AI makes a mistake?",
+      "answer": "Request human arbitration. Major errors trigger platform-wide AI retraining."
+    }
+  ]

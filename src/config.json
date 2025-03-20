@@ -1,0 +1,62 @@
+{
+    "faq": {
+        "fasttext_logreg": {
+            "chainer": {
+                "in": ["question"],
+                "out": ["answer"],
+                "pipe": [
+                    {
+                        "class_name": "FasttextEmbedder",
+                        "fit_on": ["data/faq_data.json"],
+                        "id": "embedder"
+                    },
+                    {
+                        "class_name": "SklearnComponent",
+                        "model_class": "LogisticRegression",
+                        "in": ["embedder"],
+                        "out": ["answer"],
+                        "fit_on": ["data/faq_data.json"]
+                    }
+                ]
+            }
+        },
+        "tfidf_autofaq": {
+            "chainer": {
+                "in": ["question"],
+                "out": ["answer"],
+                "pipe": [
+                    {
+                        "class_name": "TfidfVectorizer",
+                        "fit_on": ["data/faq_data.json"],
+                        "id": "vectorizer"
+                    },
+                    {
+                        "class_name": "SklearnComponent",
+                        "model_class": "LogisticRegression",
+                        "in": ["vectorizer"],
+                        "out": ["answer"],
+                        "fit_on": ["data/faq_data.json"]
+                    }
+                ]
+            }
+        }
+    },
+    "chainer": {
+      "in": ["question"],
+      "out": ["answer"],
+      "pipe": [
+        {
+          "class_name": "TfidfVectorizer",
+          "fit_on": ["data/faq_data.json"],
+          "id": "vectorizer"
+        },
+        {
+          "class_name": "SklearnComponent",
+          "model_class": "LogisticRegression",
+          "in": ["vectorizer"],
+          "out": ["answer"],
+          "fit_on": ["data/faq_data.json"]
+        }
+      ]
+    }
+}
