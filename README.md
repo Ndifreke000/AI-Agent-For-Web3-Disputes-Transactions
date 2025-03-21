@@ -3,6 +3,9 @@
 ## Description
 This project implements an AI agent designed to assist in managing and resolving disputes related to Web3 transactions. The agent utilizes machine learning models to provide responses to user inquiries based on a predefined FAQ dataset.
 
+
+![megatron](https://github.com/user-attachments/assets/082d8c47-702f-49fe-8d69-1e16b0fec9af)
+
 ## Key Components
 - **`src/main.py`:** The main entry point for the chatbot. It initializes the FAQ model and handles user interactions.
 - **`src/train.py`:** Script for training the FAQ models using DeepPavlov. It trains two models: one with FastText logistic regression and another with TF-IDF auto FAQ.
