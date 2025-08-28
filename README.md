@@ -38,8 +38,3 @@ This project implements an AI agent designed to assist in managing and resolving
    ```
 
 3. Interact with the chatbot by typing your questions. Type 'exit' or 'quit' to end the session.
-
-## License
-This project is licensed under the MIT License.
-
-yehhhhhh
