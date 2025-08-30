@@ -14,7 +14,7 @@ This project implements an AI agent designed to assist in managing and resolving
 - **`requirements.txt`:** Lists the necessary Python packages required to run the project.
 - **`.gitignore`:** Specifies files and directories to be ignored by Git.
 
-i really find this awesome 
+.=#.
 
 ## Installation
 1. Clone the repository:
