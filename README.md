@@ -39,4 +39,4 @@ This project implements an AI agent designed to assist in managing and resolving
    python src/main.py
    ```
 
-3. Interact with the chatbot by typing your questions. Type 'exit' or 'quit' to end the session.
+3. Interact with all the chatbot by typing your questions. Type 'exit' or 'quit' to end the session.
