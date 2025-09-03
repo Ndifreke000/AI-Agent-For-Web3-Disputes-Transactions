@@ -16,7 +16,7 @@ This project implements an AI agent designed to assist in managing and resolving
 
 .=#.
 
-## Installation
+## Installations
 1. Clone the repository:
    ```bash
    git clone <repository-link>
